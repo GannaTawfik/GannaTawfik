@@ -28,9 +28,6 @@ Built a smart, scalable web system for advanced customer segmentation using RFM 
 ✅ Sentiment analysis & interactive dashboards
 📊 Built with React, Node.js, Flask, Python
 
-### 📊 GitHub Stats
-![Ganna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GannaTawfik&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GannaTawfik&layout=compact&theme=radical)
 
 ---
 
