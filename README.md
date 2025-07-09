@@ -20,7 +20,9 @@
 
 ### 📌 Highlight Projects
 
-- 🧠 Customer Segmentation ML Project: https://github.com/Ziadali20/customer-segmentation.git 
+- 🧠 Customer Segmentation ML Project: https://github.com/Ziadali20/customer-segmentation.git
+
+  ---
 Built a smart, scalable web system for advanced customer segmentation using RFM analysis and machine learning.
 ✅ Upload & analyze up to 500K transactions
 ✅ Segment users (e.g., Champions, At Risk)
